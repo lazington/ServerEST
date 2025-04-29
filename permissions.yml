@@ -1,0 +1,11 @@
+groups:
+  default:
+    options:
+        default: true
+    permissions:
+    - anvilenhanced.rename
+    - anvilenhanced.color
+    - anvilenhanced.enchant.books
+    - anvilenhanced.enchant.items
+    - anvilenhanced.enchant.item-book
+    - anvilenhanced.enchant.use-books
